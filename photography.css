@@ -87,7 +87,7 @@ a:hover {
     display: block;
     overflow: hidden;
     height: 100vh;
-    background-image: url('./images/canon.jpg');
+    background-image: url('./canon.jpg');
     background-size: cover;
     background-position: center;
     transform: scale(1) rotateX(0);
@@ -223,7 +223,7 @@ body.nature-on .hero-section {
     left: 0;
     width: 100%;
     display: block;
-    background: url(./images/session.jpg);
+    background: url(./session.jpg);
     background-repeat: no-repeat;
     background-position: center;    
     overflow: hidden;
@@ -332,7 +332,7 @@ body.about-on .about-section {
     display: block;
     overflow: hidden;
     height: 100vh;
-    background: url(./images/nikon.jpg);
+    background: url(./nikon.jpg);
     background-repeat: no-repeat;
     background-position: center;  
     transform: translateX(100%);
